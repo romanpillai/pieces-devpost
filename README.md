@@ -4,7 +4,7 @@ The banners on the Devpost page of Pieces, a video editor built for VR headsets 
 
 ![Pieces: video editing, made for your hands](banners/00-pieces.jpg)
 
-![Ask for the edit: say it, and the crossfade is done](banners/01-ask.jpg)
+![Ask AI for the edit: say it, and the crossfade is done](banners/01-ask.jpg)
 
 ![Edit with a pinch: the timeline and its controls](banners/02-timeline.jpg)
 
