@@ -12,7 +12,7 @@ The banners on the Devpost page of Pieces, a video editor built for VR headsets 
 
 ![Cut the silences: the quiet, cut out](banners/04-cut-silences.jpg)
 
-![Mask out subjects with green screen: shot on green, keyed, anywhere](banners/05-chroma-key.jpg)
+![Mask out subjects with AI or green screen: no green screen, one tap on Remove BG, AI finds her, anywhere](banners/05-chroma-key.jpg)
 
 ![176 live transitions](banners/06-transitions.jpg)
 
